@@ -1,5 +1,6 @@
 # FirstGame
 Pao-Ying-Chub Game
 
-run game use:
-game_pao_ying_chub()
+สวัสดีครับนี่เป็นเกมเป่ายิ้งฉุบที่ผมทำเล่นนะครับ
+
+วิธีการเริ่มเล่นเกมให้พิมพ์คำสั่งนี้ : game_pao_ying_chub()
